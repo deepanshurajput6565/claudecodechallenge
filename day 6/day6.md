@@ -17,4 +17,3 @@ ATS scoring is largely keyword overlap between your resume and the job posting. 
 "Jan 2024 – Jun 2024" everywhere, not a mix of "1/24," "January 2024," "Present."
 9. Cut redundancy, fit one page.
 Recruiters spend ~6-8 seconds on first pass. Every repeated phrase or filler bullet ("passionate team player") pushes out something that could've been a real accomplishment.
-Send me your actual details (or your current resume) whenever — I'll apply these same rules to the real thing.
